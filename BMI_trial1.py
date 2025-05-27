@@ -15,6 +15,8 @@ if BMI>0:
 
 
 print(f"Here is your BMI {BMI}")
+#the syntax when we add the names?
+#the difference between return and print
 
 
 
